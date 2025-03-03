@@ -1,3 +1,5 @@
+// Payton Hatch
+// Group 4-6
 import { useEffect, useState } from "react";
 import TeamCard from "./TeamCard";
 
